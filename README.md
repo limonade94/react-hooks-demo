@@ -1,25 +1,23 @@
-# REACT HOOKS DEMO
+# React Hooks Demo
 
 This is a simple project that introduces developers to React Hooks. The demo in this project demonstrates `useState` and `useEffect` hooks. You can access the entire tutorial on [Sitepoint](https://www.sitepoint.com/react-hooks/).
 
 ## Prerequisites
 
-- Latest LTS version of [Node.js](https://nodejs.org/en/download/)
-- [Yarn](https://classic.yarnpkg.com/en/docs/install)
-- [Git for Windows users](https://git-scm.com/download/win)
+- [Node.js](https://nodejs.org/en/download/)
 
 ## How to install and run
 
 ```bash
 # Download project
-git clone git@github.com:brandiqa/react-hooks-demo.git
+https://github.com/sitepoint-editors/react-hooks-demo
 
 # Install dependencies
 cd message-app
-yarn
+npm i
 
 # Launch application
-yarn start
+npm start
 ```
 
 ## License
